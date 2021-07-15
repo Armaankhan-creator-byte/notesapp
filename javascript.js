@@ -1,4 +1,3 @@
-console.log("welcome armaan");
 shownotes();
 let addbtn = document.getElementById("addbtn");
 addbtn.addEventListener("click", function (e) {
